@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/juju/errors"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/pingcap/pd/server/core"
 	log "github.com/sirupsen/logrus"
 )

@@ -14,7 +14,7 @@
 package cases
 
 import (
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/pingcap/pd/server/core"
 )
 

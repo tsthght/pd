@@ -16,7 +16,7 @@ import (
 	"bytes"
 
 	"github.com/google/btree"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 )
 
 var _ btree.Item = &regionItem{}

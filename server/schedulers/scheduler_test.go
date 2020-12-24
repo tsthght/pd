@@ -15,7 +15,7 @@ package schedulers
 
 import (
 	. "github.com/pingcap/check"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/pingcap/pd/server/namespace"
 	"github.com/pingcap/pd/server/schedule"
 	log "github.com/sirupsen/logrus"

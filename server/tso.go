@@ -20,7 +20,7 @@ import (
 
 	"github.com/coreos/etcd/clientv3"
 	"github.com/juju/errors"
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 	log "github.com/sirupsen/logrus"
 )
 

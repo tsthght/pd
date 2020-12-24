@@ -18,7 +18,7 @@ import (
 	"sync/atomic"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 )
 
 // SplitRegions split a set of metapb.Region by the middle of regionKey

@@ -16,7 +16,7 @@ package schedule
 import (
 	"time"
 
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 )
 
 // Simulating is an option to overpass the impact of accelerated time. Should
