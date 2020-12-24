@@ -16,7 +16,7 @@ package tsoutil
 import (
 	"time"
 
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 )
 
 const (

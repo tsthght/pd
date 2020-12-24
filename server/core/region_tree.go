@@ -17,7 +17,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/pkg/btree"
 	"github.com/tikv/pd/pkg/errs"

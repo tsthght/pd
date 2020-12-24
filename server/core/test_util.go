@@ -16,8 +16,8 @@ package core
 import (
 	"math"
 
-	"github.com/pingcap/kvproto/pkg/metapb"
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 )
 
 // SplitRegions split a set of RegionInfo by the middle of regionKey

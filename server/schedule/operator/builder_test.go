@@ -15,7 +15,7 @@ package operator
 
 import (
 	. "github.com/pingcap/check"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/tikv/pd/pkg/mock/mockcluster"
 	"github.com/tikv/pd/pkg/mock/mockoption"
 	"github.com/tikv/pd/server/core"

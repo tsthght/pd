@@ -17,7 +17,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/pingcap/log"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/tikv/pd/pkg/errs"

@@ -22,8 +22,8 @@ import (
 
 	"github.com/coreos/go-semver/semver"
 	"github.com/pingcap/errors"
-	"github.com/pingcap/kvproto/pkg/metapb"
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/pkg/dashboard"
 	"github.com/tikv/pd/pkg/swaggerserver"

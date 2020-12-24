@@ -17,7 +17,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/server/core"
 	"go.uber.org/zap"

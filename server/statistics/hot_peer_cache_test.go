@@ -17,7 +17,7 @@ import (
 	"math/rand"
 
 	. "github.com/pingcap/check"
-	"github.com/pingcap/kvproto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
 	"github.com/tikv/pd/server/core"
 )
 

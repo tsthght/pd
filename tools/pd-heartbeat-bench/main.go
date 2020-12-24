@@ -20,8 +20,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/pingcap/kvproto/pkg/metapb"
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 	"go.etcd.io/etcd/pkg/report"
 	"google.golang.org/grpc"
 )

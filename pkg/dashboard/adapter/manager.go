@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/pingcap-incubator/tidb-dashboard/pkg/apiserver"
-	"github.com/pingcap/kvproto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
 
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/pkg/errs"
