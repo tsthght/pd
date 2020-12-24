@@ -23,8 +23,8 @@ import (
 
 	. "github.com/pingcap/check"
 	"github.com/pingcap/failpoint"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 	"github.com/tikv/pd/pkg/mock/mockcluster"
 	"github.com/tikv/pd/pkg/mock/mockhbstream"
 	"github.com/tikv/pd/pkg/mock/mockoption"

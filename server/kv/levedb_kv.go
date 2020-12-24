@@ -16,7 +16,7 @@ package kv
 import (
 	"github.com/gogo/protobuf/proto"
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 	"github.com/tikv/pd/pkg/errs"

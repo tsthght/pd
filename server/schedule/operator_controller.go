@@ -24,8 +24,8 @@ import (
 
 	"github.com/pingcap/failpoint"
 	"github.com/pingcap/kvproto/pkg/eraftpb"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/pkg/cache"
 	"github.com/tikv/pd/pkg/errs"

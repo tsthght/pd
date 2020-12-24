@@ -18,7 +18,7 @@ import (
 	"sync"
 
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/tikv/pd/server/core"
 	"github.com/tikv/pd/tools/pd-simulator/simulator/cases"
 	"github.com/tikv/pd/tools/pd-simulator/simulator/info"

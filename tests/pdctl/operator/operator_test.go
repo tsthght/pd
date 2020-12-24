@@ -20,7 +20,7 @@ import (
 	"time"
 
 	. "github.com/pingcap/check"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/tikv/pd/server"
 	"github.com/tikv/pd/server/config"
 	"github.com/tikv/pd/server/core"

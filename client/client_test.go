@@ -19,7 +19,7 @@ import (
 	"time"
 
 	. "github.com/pingcap/check"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 	"github.com/tikv/pd/pkg/testutil"
 	"go.uber.org/goleak"
 	"google.golang.org/grpc"

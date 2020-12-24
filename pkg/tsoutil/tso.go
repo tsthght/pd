@@ -16,7 +16,7 @@ package tsoutil
 import (
 	"time"
 
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 )
 
 const (

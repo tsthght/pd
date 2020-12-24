@@ -23,8 +23,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 	"github.com/pingcap/kvproto/pkg/replication_modepb"
 	"github.com/tikv/pd/pkg/apiutil"
 	"github.com/tikv/pd/server"

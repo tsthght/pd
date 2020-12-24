@@ -26,7 +26,7 @@ import (
 
 	"github.com/gogo/protobuf/proto"
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/tikv/pd/pkg/errs"
 	"github.com/tikv/pd/server/kv"
 	"go.etcd.io/etcd/clientv3"

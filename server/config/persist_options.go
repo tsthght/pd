@@ -21,7 +21,7 @@ import (
 	"unsafe"
 
 	"github.com/coreos/go-semver/semver"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/tikv/pd/pkg/slice"
 	"github.com/tikv/pd/pkg/typeutil"
 	"github.com/tikv/pd/server/core"

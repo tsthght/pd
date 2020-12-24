@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/tikv/pd/pkg/typeutil"
 	"github.com/tikv/pd/server"
 	"go.etcd.io/etcd/clientv3"

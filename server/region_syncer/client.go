@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 	"github.com/pingcap/log"
 	"github.com/tikv/pd/pkg/errs"
 	"github.com/tikv/pd/pkg/grpcutil"

@@ -18,7 +18,7 @@ import (
 	"regexp"
 
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 )
 
 const (

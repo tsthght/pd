@@ -14,7 +14,7 @@
 package operator
 
 import (
-	"git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 )
 
 // OpStatus represents the status of an Operator.

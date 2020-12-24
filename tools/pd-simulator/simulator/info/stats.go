@@ -13,7 +13,7 @@
 
 package info
 
-import "git.sankuai.com/inf/blade-kv-proto/pkg/pdpb"
+import "git.sankuai.com/inf/blade-kv-proto.git/pkg/pdpb"
 
 // StoreStats is to save store stats of node.
 type StoreStats struct {

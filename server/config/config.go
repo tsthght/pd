@@ -37,7 +37,7 @@ import (
 	"github.com/BurntSushi/toml"
 	"github.com/coreos/go-semver/semver"
 	"github.com/pingcap/errors"
-	"git.sankuai.com/inf/blade-kv-proto/pkg/metapb"
+	"git.sankuai.com/inf/blade-kv-proto.git/pkg/metapb"
 	"github.com/pingcap/log"
 	"go.etcd.io/etcd/embed"
 	"go.etcd.io/etcd/pkg/transport"
